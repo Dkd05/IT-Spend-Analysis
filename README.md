@@ -4,14 +4,11 @@
 
 One year(2020) of data (~11k rows) was taken for this analysis. Received a dataset in seven different csv files which includes 
 
+
       1.Actuals, forecast and Budget Table
-      
       2.Departments Table
-      
       3.Region Table
-      
       4.Cost Element Table (Cost factor for each department)
-      
       5.Calender Table
 
       
@@ -22,19 +19,19 @@ One year(2020) of data (~11k rows) was taken for this analysis. Received a datas
 2.Calculate and compare between Budget v/s Actuals
 
 3. Calculate and show actual budget and forecast for each year and month
-4. 
-5. Calculate Budget and Forecast gap(in percentage)
-6. 
-7. Budget v/s Forecast % against Cost Elements across all Departments
-8. 
+ 
+4. Calculate Budget and Forecast gap(in percentage)
+
+5. Budget v/s Forecast % against Cost Elements across all Departments
+
 6.show budget and actuals for each region
 
-10. Add a matrix table to show Expenditure and Budget across all IT area
-11. 
-12. Add Data bars in Actuals with blue color and then sort on actuals by IT department
-13. 
-14. Create a filled map. Actual cost by country
-15. 
+7. Add a matrix table to show Expenditure and Budget across all IT area
+
+8. Add Data bars in Actuals with blue color and then sort on actuals by IT department
+
+9. Create a filled map. Actual cost by country
+
 
 **Steps**
 1.Load and transform all the tables in a PowerQuery.
