@@ -36,13 +36,13 @@ One year(2020) of data (~11k rows) was taken for this analysis. Received a datas
 
 **Steps**
 
-1.Load and transform all the tables in a PowerQuery.
-
-2.Data modelling by making relationship between each table.
-
-3.Created a necessary DAX (using CALCULATE,SUMX,DIVIDE,AVERAGE,RELATED, etc.) to calculate key parameters.
-
-4.Implemented some visualisation charts and graphs like Gauge chart,Column chart, line graph, KPIs, etc.
-5.Make us of bookmark and filtering technique to make Dashboard more interactive.
-6.Drill through technique is used to navigate across the pages.
+      1.Load and transform all the tables in a PowerQuery.
+      
+      2.Data modelling by making relationship between each table.
+      
+      3.Created a necessary DAX (using CALCULATE,SUMX,DIVIDE,AVERAGE,RELATED, etc.) to calculate key parameters.
+      
+      4.Implemented some visualisation charts and graphs like Gauge chart,Column chart, line graph, KPIs, etc.
+      5.Make us of bookmark and filtering technique to make Dashboard more interactive.
+      6.Drill through technique is used to navigate across the pages.
 
